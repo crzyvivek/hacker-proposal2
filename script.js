@@ -1,4 +1,7 @@
-const text = "🚨 WARNING! 🚨\nYour system is under attack!\nA hacker has breached your heart's firewall.\n\n🖥️ Running command: 'Proceed to next step...'";
+const text = "🚨 WARNING! 🚨"
+    const text = "Your system is under attack!"
+       const text = "nA hacker has breached your heart's firewall."
+       const text =" 🖥️ Running command: 'Proceed to next step...'";
 let i = 0;
 
 function typeWriter() {
