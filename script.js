@@ -1,7 +1,5 @@
-const text = "🚨 WARNING! 🚨";
-    const text = "Your system is under attack!";
-       const text = "hacker has breached your heart's firewall.";
-       const text =" 🖥️ Running command: 'Proceed to next step...'";
+const text = "I Love You.
+    "Do You Love Me.'";
 let i = 0;
 
 function typeWriter() {
