@@ -1,4 +1,4 @@
-const text = "I Love You.
+const text = "I Love You.";
            = "Do You Love Me.'";
 let i = 0;
 
