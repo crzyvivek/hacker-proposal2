@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    color: green;
+    font-family: 'Courier New', monospace;
+    text-align: center;
+    padding: 50px;
+}
+.typewriter {
+    display: inline-block;
+    border-right: 3px solid green;
+    white-space: nowrap;
+    overflow: hidden;
+    font-size: 20px;
+}
+.hacker-text {
+    font-size: 50px;
+    font-weight: bold;
+    color: green;
+    text-align: center;
+    font-family: 'Courier New', monospace;
+}
+.success {
+    color: lime;
+}
+.error {
+    color: red;
+}
+.button {
+    background-color: green;
+    color: black;
+    padding: 10px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+}
+.button:hover {
+    background-color: red;
+}
+
