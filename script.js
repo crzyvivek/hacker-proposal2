@@ -1,5 +1,5 @@
 const text = "I Love You.
-    "Do You Love Me.'";
+           = "Do You Love Me.'";
 let i = 0;
 
 function typeWriter() {
