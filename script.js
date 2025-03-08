@@ -1,6 +1,6 @@
-const text = "🚨 WARNING! 🚨"
-    const text = "Your system is under attack!"
-       const text = "nA hacker has breached your heart's firewall."
+const text = "🚨 WARNING! 🚨";
+    const text = "Your system is under attack!";
+       const text = "hacker has breached your heart's firewall.";
        const text =" 🖥️ Running command: 'Proceed to next step...'";
 let i = 0;
 
